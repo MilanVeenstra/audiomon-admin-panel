@@ -12,7 +12,7 @@ Admin-only dashboard for AudioMon, built with Next.js (App Router) + TypeScript.
 - React 19
 - TypeScript
 - Tailwind CSS
-- shadcn/ui (to be added)
+- shadcn/ui
 
 ## Development
 
@@ -32,10 +32,4 @@ Create `.env.local` with:
 BACKEND_BASE_URL=https://audiomonbackend.slicegames.nl
 ```
 
-## Project Status
-Currently at **Phase 0** - Project skeleton and basic structure.
 
-See `CONTRACT_CHECK.md` for backend API verification plan before implementing auth in Phase 1.
-
-## Documentation
-Full project context and phase plan in `audiomon-admin-context-adminonly-en-v4/docs/claude/`
